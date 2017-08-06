@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      host: 119.29.193.192
+      port: 27017
